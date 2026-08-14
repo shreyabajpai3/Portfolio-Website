@@ -16,23 +16,14 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Shreya Bajpai — Data Analyst & BI Developer',
+  title: 'Shreya Bajpai',
   description:
     'Portfolio of Shreya Bajpai, a data analyst turning raw data into trend lines, dashboards and decisions with SQL, Python, Power BI and DAX.',
   generator: 'v0.app',
   icons: {
     icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
+          {
+        url: '/s.png',
       },
     ],
     apple: '/apple-icon.png',
